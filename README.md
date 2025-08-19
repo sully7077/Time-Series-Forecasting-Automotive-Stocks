@@ -2,7 +2,8 @@
 Time series forecasting of automotive stock prices using ARIMA, Prophet, XGBoost, LSTM, and hybrid SARIMA–LSTM. Includes code, analysis, final report, and presentation.
 
 ## Overview
-This project explores time series forecasting techniques to predict automotive stock prices, with a focus on **Volkswagen ADR (VWAGY)** between 2020–2025.  
+This project explores time series forecasting techniques to predict automotive stock prices, with a focus on **Volkswagen ADR (VWAGY)** between 2020–2025.
+
 We implemented and compared traditional statistical models and modern machine learning approaches to evaluate accuracy, interpretability, and forecasting power.  
 
 **Models Used**
