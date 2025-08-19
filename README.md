@@ -34,11 +34,11 @@ We implemented and compared traditional statistical models and modern machine le
 ---
 
 ## Data Source  
-Volkswagen ADR (VWAGY) historical stock price data was obtained from **[Investing.com](https://www.investing.com/equities/volkswagen-adr-historical-data)** for the period 2020–2025.  
+Volkswagen ADR (VWAGY) historical stock price data was obtained from **[Investing.com](https://www.investing.com/equities/volkswagen-adr-be)** for the period 2020–2025.  
 
 ---
 
-## 📓 Methodology (Notebook)  
+## Methodology (Notebook)  
 The Jupyter Notebook (`Volkswagen_Prediction_Modeling_&_Evaluation.ipynb`) performs the entire workflow:  
 
 - **Data Cleaning**  
