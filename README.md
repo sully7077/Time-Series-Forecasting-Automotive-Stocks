@@ -27,7 +27,13 @@ We implemented and compared traditional statistical models and modern machine le
 ## Tech & Tools
 - **Python**: pandas, numpy, matplotlib, seaborn  
 - **Modeling Libraries**: statsmodels, prophet, scikit-learn, xgboost, tensorflow/keras  
-- **Concepts**: Time Series Forecasting · Financial Data Analytics · Predictive Modeling · Data Visualization  
+- **Concepts**: Time Series Forecasting · Financial Data Analytics · Predictive Modeling · Data Visualization
+  
+---
+
+## Results
+- The **Hybrid SARIMA–LSTM** model outperformed all others, achieving the lowest error (RMSE ≈ 0.54, MAPE ≈ 3.6%).  
+- Demonstrated the trade-off between interpretability (ARIMA/Prophet) and predictive power (XGBoost/LSTM).  
 
 ---
 
